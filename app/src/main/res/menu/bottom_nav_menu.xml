@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/nav_trainer"
+        android:icon="@drawable/ic_baseline_trainer"
+        android:title="Trainer" />
+    <item
+        android:id="@+id/nav_meal"
+        android:icon="@drawable/ic_baseline_meal"
+        android:title="Meal" />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_baseline_my_profile_"
+        android:title="Profile" />
+</menu>
